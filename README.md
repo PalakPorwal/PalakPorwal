@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PalakPorwal
 - 👀 I’m interested in coding, art & learning new things
-- 🌱 I’m currently learning programming languages
+- 🌱 I’m currently purusing M.Tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me palakporwal2504@gmail.com
 
